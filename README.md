@@ -1,2 +1,3 @@
 # PRIMERA_PRAC
-Es nuestra primera practica utilizando github
+Es nuestra primera practica utilizando GITHUB
+Hola mundo!!
